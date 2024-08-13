@@ -1,3 +1,10 @@
+ /* 
+  Author: Scott Martel
+  Date: 08/12/2024
+
+  This CSS styles file provides the styling for my software developer portfolio.
+*/
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -27,8 +34,13 @@ h2 {
   color: #1687a7;
 }
 
+h3 {
+  color: #1687a7;
+}
+
 .video-section,
-.enhancement {
+.enhancement,
+.section {
   background-color: white;
   border: 1px solid #ccc;
   padding: 20px;
